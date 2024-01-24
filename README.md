@@ -1,3 +1,3 @@
 # Ipynb_Pipeline
 - author: Quan Hoang Ngoc
-- role: file collection
+- role: file pattern collection
