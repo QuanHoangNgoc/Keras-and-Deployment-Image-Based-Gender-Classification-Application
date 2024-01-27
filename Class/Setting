@@ -8,11 +8,18 @@ print(keras.__version__)
 
 import numpy as np
 import tensorflow as tf
-
 # setting random_state
 RANDOM_STATE = 42
 np.random.seed(RANDOM_STATE)
 tf.random.set_seed(RANDOM_STATE)
+# -------------------------------------------------------------
+
+# libraries
+from collections import defaultdict
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import sklearn as skl, sklearn 
 
 # fix random_state
 def fixRandomState(fixed_state: int = RANDOM_STATE):
