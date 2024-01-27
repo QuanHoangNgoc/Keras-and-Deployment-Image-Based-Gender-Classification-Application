@@ -1,0 +1,25 @@
+class View:
+  # Singleton Pattern
+  _instance = None
+  def __new__(cls):
+      if cls._instance is None:
+          cls._instance = super(View, cls).__new__(cls)
+      return cls._instance
+
+  def over(self, val) -> tuple:
+    try:
+      return type(val), val.shape
+    except:
+      return type(val), ()
+
+  def architectModel(self, model, filename = 'model.png'):
+    return keras.utils.plot_model(model, filename, show_dtype=True,
+      show_layer_activations=True, show_layer_names=True,
+      show_shapes=True, show_trainable=True)
+    
+  def summaryModel(self, model): 
+    if(len(model.weights) == 0): 
+      return mesWarning("model was not built") 
+    model.summary(expand_nested=True, show_trainable=True) 
+
+view = View()
