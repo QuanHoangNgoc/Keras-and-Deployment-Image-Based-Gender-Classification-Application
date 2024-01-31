@@ -1,7 +1,7 @@
 # Introduce   
-- author: Quan Hoang Ngoc
-- occasion: self-learning
-- time: Tet vacation 2024 
+- Quan Hoang Ngoc
+- self-learning
+- Tet vacation 2024 
 # Pipeline 
 ### training: 
 - keras 2.0-tensorflow
