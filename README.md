@@ -6,7 +6,7 @@
 ### training: 
 - keras 2.0-tensorflow
 - Colab cloud (GPU), ipynb
-- samples for training: in 'master' branch 
+- dataset folder for training: ~23K face images  
 ### deployment server: 
 - flask
 - Local, python
