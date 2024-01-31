@@ -2,7 +2,7 @@
 - Quan Hoang Ngoc
 - self-learning
 - Tet vacation 2024
-### intro
+### about 
 - This is a self-learning project. 
 - I learn about [keras guides] and use the [ipynb pipeline] to train a gender model with keras 2.0-tf on Colab Cloud GPU. 
 - I found a way to interact with the model through  an [interaction GUI app] on Local Devices  and use c# to deploy it with winform .NET. 
