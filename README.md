@@ -7,6 +7,8 @@
 - I learn about [keras guides] and use the [ipynb pipeline] to train a gender model with keras 2.0-tf on Colab Cloud GPU. 
 - I found a way to interact with the model through  an [interaction GUI app] on Local Devices  and use c# to deploy it with winform .NET. 
 - But, to deploy the model that has fast response speed, I need a server process run anytime. I use [flask] to implement the server api for c# client.
+### show 
+- release: https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/Er2vrHvm_p1Agv6ZddnhK_0BcVs9J0IKszK-ouqOCT5kjA?e=aL6OHd
 
 # Repo Branch 
 - MAIN: Contain some files, folders about guide and pipeline for all about process and project. 
