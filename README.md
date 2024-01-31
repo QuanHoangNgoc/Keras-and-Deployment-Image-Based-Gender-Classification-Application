@@ -9,9 +9,9 @@
 - But, to deploy the model that has fast response speed, I need a server process run anytime. I use [flask] to implement the server api for c# client.
 
 # Repo Branch 
-- main: Contain some files, folders about guide and pipeline for all about process and project. 
-- project_banch: All about Gender App. 
-- dataset_branch: Dataset for training process.  
+- MAIN: Contain some files, folders about guide and pipeline for all about process and project. 
+- PROJECT: All about Gender App. 
+- DATASET: Dataset for training process.  
 
 # Pipeline 
 ### training: 
