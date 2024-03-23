@@ -14,7 +14,7 @@
 - RESOURCES: Contain some files, folders about guide and pipeline for all about process and project. 
 - PROJECT: All about Gender App. 
 - DATASET: Dataset for training process.
-- [x] OneDrive [All_about_Project](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/Er2vrHvm_p1Agv6ZddnhK_0BcVs9J0IKszK-ouqOCT5kjA?e=aL6OHd)
+- [x] OneDrive: [All_about_Project](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/Er2vrHvm_p1Agv6ZddnhK_0BcVs9J0IKszK-ouqOCT5kjA?e=aL6OHd)
   - Using to store tested model (files .h5) that have large size 
 
 # Pipeline: 
