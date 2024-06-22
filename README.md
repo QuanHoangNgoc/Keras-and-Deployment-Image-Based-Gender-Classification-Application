@@ -8,8 +8,8 @@
 
 This project is a testament to my journey of self-learning, where I explore various facets of machine learning and deployment techniques:
 
-- **Learning Journey**: Delve into [Keras guides] 📚 and utilize [Jupyter Notebook pipeline] 📊 to train a gender classification model with Keras 2.0-tf on Colab Cloud GPU.
-- **GUI Application Development**: Develop an interactive GUI app on local devices using C# WinForms to interact with the trained model 🖥️.
+- **Learning Journey**: Delve into [Keras guides] 📘 and utilize [Jupyter Notebook pipeline] 📊 to train a gender classification model with Keras 2.0-tf on Colab Cloud GPU.
+- **GUI Application Development**: Develop an interactive GUI app on local devices using C# WinForms to interact with the trained model 💻.
 - **Server Deployment**: Implement a Flask server API to ensure fast response times for the deployed model, facilitating communication with the C# client 🚀.
 
 ### Show-off
