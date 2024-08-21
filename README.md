@@ -2,7 +2,7 @@
 
 ## 📚 About
 
-Welcome to my self-learning journey in **Machine Learning** and **Deployment Techniques**, undertaken during Tet 2024. This project is a comprehensive exploration of training a machine learning model, developing a GUI application, and deploying it on a server.
+Welcome to my self-learning journey in **Machine Learning** and **Deployment Techniques**, undertaken during Tet 2024. This project is a comprehensive exploration of training a machine learning model, developing a GUI application, and deploying the trained model operation as a server.
 
 ---
 
